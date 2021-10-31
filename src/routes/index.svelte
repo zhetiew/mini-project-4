@@ -4,7 +4,7 @@
 </script>
 
 <div>
-    <h1 class="text-primary">Play with Colors</h1>
+    <h1 class="text-primarya">Play with Colors</h1>
 </div>
 
 <div>
